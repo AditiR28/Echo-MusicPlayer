@@ -12,7 +12,7 @@ It is coded in Kotlin and Xml For UI
 It has many features like
 # Now playing <br>
 <img src="screenshots/2s.png" align= "middle">
-<img src="screenshots/6s.png" align= "middle">
+<img src="screenshots/7s.png" align= "middle">
 
 # Navigaion drawer <br>
 <img src="screenshots/3s.png" align= "middle">
@@ -21,10 +21,10 @@ It has many features like
 <img src="screenshots/4s.png" align= "middle">
 
 # Shake to cange song is experimental may not work on all devices <br>
-<img src="screenshots/5s.png" align= "middle">
+<img src="screenshots/6s.png" align= "middle">
 
 # About us <br>
-<img src="screenshots/4s.png" align= "middle">
+<img src="screenshots/5s.png" align= "middle">
 
 # It also comes with a visualizer (cleveroad ) <br>
 
