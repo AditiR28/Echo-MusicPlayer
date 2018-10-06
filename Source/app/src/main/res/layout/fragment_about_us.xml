@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:paddingTop="11dp"
+    android:background="#ffffff"
+    tools:context="com.rajput.aditi.echo.fragments.AboutUsFragment">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+       <ImageView
+           android:layout_width="200dp"
+           android:layout_height="205dp"
+           android:background="@drawable/display_picture"
+           android:layout_marginTop="10dp"
+           android:layout_marginLeft="85dp"
+           android:id="@+id/display_picture"
+           />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Created by Aditi Rajput"
+            android:layout_below="@+id/display_picture"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:layout_marginTop="5dp"
+            android:textColor="#212121"
+            android:id="@+id/line1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="KIIT College of Engineering (CSE)"
+            android:paddingLeft="10dp"
+            android:paddingRight="5dp"
+            android:layout_marginTop="4dp"
+            android:id="@+id/para1"/>
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>
