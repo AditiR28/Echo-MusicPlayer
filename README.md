@@ -1,35 +1,35 @@
 # Echo-MusicPlayer
 This is a music player developed for android 4.0 and above 
 
-<img src="Echo-MusicPlayer/screenshots/icon.png" align= "middle">
+<img src="screenshots/icon.png" align= "middle">
 
 Echo is created using Andriod Studiod and tested on Andriod 7.1 
-#Splash Screen
-<img src="screenshots/1.png" align= "middle">
+# Splash Screen <br>
+<img src="screenshots/1s.png" align= "middle">
 
 It is coded in Kotlin and Xml For UI 
 
 It has many features like
-#Now playing
-<img src="screenshots/2.png" align= "middle">
-<img src="screenshots/6.png" align= "middle">
+# Now playing <br>
+<img src="screenshots/2s.png" align= "middle">
+<img src="screenshots/6s.png" align= "middle">
 
-#Navigaion drawer
-<img src="screenshots/3.png" align= "middle">
+# Navigaion drawer <br>
+<img src="screenshots/3s.png" align= "middle">
 
-#Add song to favourite
-<img src="screenshots/4.png" align= "middle">
+# Add song to favourite <br>
+<img src="screenshots/4s.png" align= "middle">
 
-#Shake to cange song is experimental may not work on all devices
-<img src="screenshots/5.png" align= "middle">
+# Shake to cange song is experimental may not work on all devices <br>
+<img src="screenshots/5s.png" align= "middle">
 
-#About us
-<img src="screenshots/4.png" align= "middle">
+# About us <br>
+<img src="screenshots/4s.png" align= "middle">
 
-#It also comes with a visualizer (cleveroad )
+# It also comes with a visualizer (cleveroad ) <br>
 
-<a href="https://github.com/Cleveroad/WaveInApp"> Github Link </a>
-<img src="screenshots/visualizer.gif" align= "middle">
+<a href="https://github.com/Cleveroad/WaveInApp"> Github Link </a> <br>
+<img src="screenshots/visualizers.gif" align= "middle"> <br>
 
 
 Echo is created during the summer training program of Internshala.com
